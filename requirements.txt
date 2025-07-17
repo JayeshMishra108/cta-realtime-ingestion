@@ -1,0 +1,5 @@
+azure-functions
+azure-eventhub
+requests
+python-dotenv
+pytest
